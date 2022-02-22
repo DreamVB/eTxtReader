@@ -6,4 +6,6 @@ The original idea came from when I made a simple file packer and my first idea f
 But as the project grew I started adding features for html. The project is still not finished and still has a few things I like to add,
 But for now it just does the trick any way hope you like it.
 
+See the sample project in the debug folder with image below is a screenhot of the compiled book
+
 <img width="415" alt="logo" src="https://user-images.githubusercontent.com/17520035/155181128-d6b8dd3d-f2c7-4c1c-b759-57ef708132da.png">
