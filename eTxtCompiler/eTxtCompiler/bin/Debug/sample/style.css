@@ -1,0 +1,35 @@
+*{
+	box-sizing: border-box;
+}
+
+html,body{
+	font-size: 1rem;
+	font-family: "Lucida Console";
+	color: #444;
+}
+
+.responsive {
+	width: 100%;
+	height: auto;
+}
+
+.wrapper{
+	max-width: 980px;
+	margin: 0 auto;
+}
+
+.header1{
+	font-size: 40px;
+}
+
+p{
+	font-size: 1rem;
+	letter-spacing: 1px;
+	font-family: Verdana;
+	line-height: 1.5;
+}
+
+.img-logo{
+	display: block;
+	text-align: center;
+}

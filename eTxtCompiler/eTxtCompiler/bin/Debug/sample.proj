@@ -1,0 +1,35 @@
+[book-info]
+file=sample\main.info
+
+[pages]
+Files=15
+File1=sample\page1.html
+title1=Welcome
+
+File2=sample\page2.html
+title2=Character Set
+
+File3=sample\page3.html
+title3=Password Length
+
+File4=sample\page4.html
+title4=Password Amount
+
+File5=sample\page5.html
+title5=Generated passwords
+
+File6=sample\page6.html
+title6=Options
+
+File8=sample\img2.png
+File9=sample\img3.png
+File10=sample\img4.png
+File11=sample\img5.png
+File12=sample\img6.png
+File13=sample\style.css
+File14=sample\logo.png
+File15=sample\abouticon.png
+
+[output]
+File=PwsLiteHelp.etxt
+
